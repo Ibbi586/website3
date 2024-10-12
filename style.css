@@ -1,0 +1,10 @@
+.opacity{
+    opacity: 0.75;
+}
+.content {
+    max-width: 1500px;
+    margin: auto;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+}
